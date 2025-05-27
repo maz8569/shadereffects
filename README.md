@@ -1,16 +1,30 @@
-Some fun shader effects in no particular order
+# Summary
+- [Shaders](#shaders)
+  - [Fur shader](#fur-shader)
+  - [World bending in Unity](#world-bending-in-unity)
+  - [World bending in OpenGL](#world-bending-in-opengl)
+  - [Scanner effect](#scanner-effect)
+  - [Holographic](#holographic)
+- [Visual Effects](#visual-effects)
+  - [Lock and chains](#lock-and-chains)
 
-# Fur shader
-![example](./imgs/FurShader.gif)
+# Shaders
+## Fur shader
+![](./imgs/FurShader.gif)
 
-# World bending (in Unity)
-![example](./imgs/WorldbendingShader.gif)
+## World bending in Unity
+![](./imgs/WorldbendingShader.gif)
 
-# World bending (in OpenGl + animations)
-![example](./imgs/WorldbendingAndAnimation.gif)
+## World bending in OpenGL
+![](./imgs/WorldbendingAndAnimation.gif)
 
-# Scanner effect
-![example](./imgs/ScannerShader.gif)
+## Scanner effect
+![](./imgs/ScannerShader.gif)
 
-# Holographic 
-![example](./imgs/HolographicShader.gif)
+## Holographic 
+![](./imgs/HolographicShader.gif)
+
+# Visual effects
+
+## Lock and chains
+![](./imgs/chainsvfx.gif)
